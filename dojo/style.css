@@ -1,0 +1,18 @@
+#appLayout {
+	height: 100%;
+}
+#leftCol {
+	width: 14em;
+}
+#appLayout .mainHeading {
+	margin: 0px;
+}
+.claro .demoLayout .edgePanel {
+	background-color: rgb(208, 233, 252);
+}
+#viewsChart {
+	width: 550px; height: 550px;
+}
+.topLink {
+	left: -200px; top: 0px; position: absolute;
+}
