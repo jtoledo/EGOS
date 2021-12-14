@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<title>Contact Form - generated with Faary.com</title>
+<link rel="stylesheet" href="files/faary.css" type="text/css" />
+<script type="text/javascript" src="files/jquery.js"></script>
+
+</head>
+<body>
+
+<script type="text/javascript">
+<!--
+	function isEmailValid(email){
+		var e = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+		return e.test(email);
+	}
+	function sendForm(){
+		
+		
+		jQuery("#imessageOK, #imessageERROR").hide();
+		jQuery(".required").removeClass("required");
+		if(jQuery("#YourName").val()==""){jQuery("#YourName").addClass("required");window.scroll(0,0);return false;}if(jQuery("#YourEmail").val()==""){jQuery("#YourEmail").addClass("required");window.scroll(0,0);return false;}if(!isEmailValid(jQuery("#YourEmail").val())){jQuery("#YourEmail").addClass("required");window.scroll(0,0);return false;}if(jQuery("#YourMessage").val()==""){jQuery("#YourMessage").addClass("required");window.scroll(0,0);return false;}jQuery("#SendaMessage").val("Please Wait...");		var AddDetails; AddDetails+="&YourName="+encodeURIComponent(jQuery("#YourName").val());AddDetails+="&YourEmail="+encodeURIComponent(jQuery("#YourEmail").val());AddDetails+="&YourMessage="+encodeURIComponent(jQuery("#YourMessage").val());jQuery("input:radio[name=Iprefer]:checked").each(function(){
+				AddDetails+="&Iprefer="+encodeURIComponent(this.value);
+			});AddDetails+="&Myageis="+encodeURIComponent(jQuery("#Myageis").val());		
+		alert("Add sending function here...\n\nOr become FAARY member to download full package!")	}
+-->
+</script>
+<form method="post" action="" onsubmit="return:false" class="iform">
+<div id="imessageOK">Thank you! Message Sent!</div>
+<div id="imessageERROR">ERROR: Message Not Sent!</div>
+<ul>
+<li class="iheader">Contact Form</li>
+<li><label for="YourName">*Your Name</label><input class="itext" type="text" name="YourName" id="YourName" /></li>
+<li><label for="YourEmail">*Your Email</label><input class="itext" type="text" name="YourEmail" id="YourEmail" /></li>
+<li><label for="YourMessage">*Your Message</label><textarea class="itextarea" name="YourMessage" id="YourMessage"></textarea></li>
+<li class="iheader">Additional Information</li>
+<li><label for="Iprefer">I prefer</label><ul><li><input class="iradio" type="radio" checked="checked" name="Iprefer" id="Iprefer2" value="Radio"><label for="Iprefer2" class="ilabel">Radio</label></li>
+<li><input class="iradio" type="radio" name="Iprefer" id="Iprefer3" value="TV"><label for="Iprefer3" class="ilabel">TV</label></li>
+<li><input class="iradio" type="radio" name="Iprefer" id="Iprefer4" value="Internet"><label for="Iprefer4" class="ilabel">Internet</label></li>
+</ul></li>
+<li><label for="Myageis">My age is</label><select class="iselect" name="Myageis" id="Myageis"><option value="30+">30+</option>
+<option value="11-29">11-29</option>
+<option value="1-10">1-10</option>
+</select></li>
+<li class="iseparator">&nbsp;</li>
+<li><label>&nbsp;</label><input type="button" class="ibutton" onclick="sendForm()" name="SendaMessage" id="SendaMessage" value="Send a Message!" /></li>
+</ul></form>
+</body>
+</html>

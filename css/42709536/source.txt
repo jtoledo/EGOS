@@ -1,0 +1,9 @@
+header,		Contact Form
+text,		*Your Name,from
+text,		*Your Email,email
+textarea,	*Your Message
+header,		Additional Information
+radio,		I prefer,Radio,TV,Internet
+select,		My age is,30+,11-29,1-10
+header
+submit,		Send a Message!

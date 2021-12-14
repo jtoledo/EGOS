@@ -1,0 +1,5 @@
+#demoIzq, #demoDer, #demoMed { border:1px dashed; width:195px; background-color:#EAEAEA; text-align:center; margin:0 1px 0 1px; }
+
+#demoDer, #demoMed { float:right; }
+
+select { width:150px; }

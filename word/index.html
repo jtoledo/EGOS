@@ -1,0 +1,76 @@
+<html>
+<head>
+	<title> Menu principal </title>
+<script languaje="javascript">
+function opcion1(){
+var m=document.getElementById('marco');
+m.src="altas.html";
+
+}
+function opcion2(){
+var m=document.getElementById('marco');
+m.src="bajas.html";
+
+}
+function opcion3(){
+var m=document.getElementById('marco');
+m.src="cambios.html";
+
+}
+function opcion4(){
+var m=document.getElementById('marco');
+m.src="reportes.html";
+
+}
+function opcion5(){
+var m=document.getElementById('marco');
+m.src="exportar.html";
+
+}
+function opcion6(){
+var m=document.getElementById('marco');
+m.src="estadistica.php";
+
+}
+</script>
+<style>
+#contenido{
+	width:600;
+	height:400;
+	border:2;
+}
+
+#marco{
+	width:600;
+	height:400;
+	border:2;
+}
+img{
+  width:100;
+  heigth:80;
+
+}
+
+</style>
+</head>
+<body>
+	<table>
+	<tr>
+		<td><img src="altas.png" onclick="opcion1();"></td>
+		<td><img src="bajas.png" onclick="opcion2();"></td>
+		<td><img src="cambios.png" onclick="opcion3();"></td>
+		<td><img src="reportes.png" onclick="opcion4();"></td>
+		<td><img src="exportar.png" onclick="opcion5();"></td>
+		<td><img src="graficar.png" onclick="opcion6();"></td>	
+
+	</tr>
+	</table>
+
+<div id="contenido">
+<iframe id="marco">
+
+</iframe>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,1213 @@
+<p>REPORTE GENERAL DE PROCESOS</p>
+    <table  border="1" cellpadding="2" width="100%">
+      
+         <tr>
+       
+          <td align="center" width="9%">
+          <strong>
+          Proceso  
+		  </strong>
+		  </td>
+          <td align="center" width="11%">
+          <strong>
+          Requerimiento
+          </strong>
+		  </td>
+          <td align="center"  width="9%">
+          <strong>
+          Medida  
+		  </strong>
+		  </td>
+          <td align="center"  width="9%">
+          <strong>
+          Cantidad
+		  </strong>
+		  </td>
+		  <td align="center"  width="7%">
+          <strong>
+          Ciclos  
+		  </strong>
+		  </td>
+          <td align="left"  width="9%">
+          <strong>
+          Total Ciclos  
+		  </strong>
+		  </td>
+          <td align="center"  width="6%">
+          <strong>
+          $/UN  
+		  </strong>
+		  </td>
+          <td align="center"  width="9%">
+          <strong>
+          $ Total  
+		  </strong>
+		  </td>
+          <td align="left"  width="9%">
+          <strong>
+          % Productor  
+		  </strong>
+		  </td>
+          <td align="center"  width="9%">
+          <strong>
+          Cuota cr&eacute;dito  
+		  </strong>
+		  </td>
+          <td align="left"  width="12%">
+          <strong>
+          Aporta productor
+		  </strong>
+		  </td>
+		  
+	  </tr>
+      
+    
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="#CCCCCC">
+          
+          <strong>
+          <div align="center">
+            1 . PLANTACION Y REPLANTACION   	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               ESTABLECIMIENTO DE VIVEROS PARA REPOSICION DE PLANTAS 10%       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">PLANTAS		
+             </div></td>
+       <td align="right">
+         <div align="center">62.50		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">62.50		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">2.60		</div></td>
+		<td align="right">
+          <div align="center">162.50		</div></td>
+		<td align="right">
+          <div align="center">50.00		</div></td>
+		
+		<td align="right">
+          <div align="center">81.25		</div></td>
+		<td align="right">
+          <div align="center">81.25		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               REPLANTACION       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">JORNADA		
+             </div></td>
+       <td align="right">
+         <div align="center">0.63		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">0.63		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">50.40		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">50.40		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="#CCCCCC">
+          
+          <strong>
+          <div align="center">
+            2 . CONTROL DE MALEZAS   	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               LIMPIAS MANUALES       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">JORNADA		
+             </div></td>
+       <td align="right">
+         <div align="center">5.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">3.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">15.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">1,200.00		</div></td>
+		<td align="right">
+          <div align="center">100.00		</div></td>
+		
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		<td align="right">
+          <div align="center">1,200.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="#CCCCCC">
+          
+          <strong>
+          <div align="center">
+            3 . CONTROL DE PLAGAS Y ENF   	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               CUPERQUIM FUNGICIDAS       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">KG		
+             </div></td>
+       <td align="right">
+         <div align="center">1.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">2.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">2.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">126.50		</div></td>
+		<td align="right">
+          <div align="center">253.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">253.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               THIODAN 35% (INSECTICIDAS)       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">LTS		
+             </div></td>
+       <td align="right">
+         <div align="center">0.50		</div></td>
+						       
+		<td align="right">
+          <div align="center">2.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">1.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">165.00		</div></td>
+		<td align="right">
+          <div align="center">165.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">165.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               APLICACION THIODAN 35 % INSECTICIDAS       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">JORNADA		
+             </div></td>
+       <td align="right">
+         <div align="center">1.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">2.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">2.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">160.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">160.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               RECOLECCION DE CAFE BROCADO       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">JORNADA		
+             </div></td>
+       <td align="right">
+         <div align="center">1.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">1.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               APLICACION CUPERQUIM FUNGICIDAS       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">JORNADA		
+             </div></td>
+       <td align="right">
+         <div align="center">1.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">2.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">2.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">160.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">160.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="#CCCCCC">
+          
+          <strong>
+          <div align="center">
+            4 . LABORES DE CULTIVO   	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               PODAS / MANEJO DE TEJIDOS DE MANTENIMIENTO       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">JORNADA		
+             </div></td>
+       <td align="right">
+         <div align="center">2.50		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">2.50		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">200.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">200.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               REGULACION DE SOMBRA       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">JORNADA		
+             </div></td>
+       <td align="right">
+         <div align="center">2.50		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">2.50		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">200.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">200.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               DESHIJE       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">JORNADA		
+             </div></td>
+       <td align="right">
+         <div align="center">1.50		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">1.50		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">120.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">120.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="#CCCCCC">
+          
+          <strong>
+          <div align="center">
+            5 . COSECHA   	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               COSTALES GRANDES       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">PIEZA		
+             </div></td>
+       <td align="right">
+         <div align="center">11.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">11.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">12.00		</div></td>
+		<td align="right">
+          <div align="center">132.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">132.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               MANO DE OBRA (60 KG / CAJAS)       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">CAJA		
+             </div></td>
+       <td align="right">
+         <div align="center">41.70		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">41.70		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">3,336.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">3,336.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               COSTALES PERGAMINEROS       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">PIEZA		
+             </div></td>
+       <td align="right">
+         <div align="center">25.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">25.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">37.00		</div></td>
+		<td align="right">
+          <div align="center">925.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">925.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               MANIOBRAS DE SECADO EN PATIO       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">QUINTAL		
+             </div></td>
+       <td align="right">
+         <div align="center">31.30		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">31.30		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">2,504.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">2,504.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               CANASTOS       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">DOCENA		
+             </div></td>
+       <td align="right">
+         <div align="center">0.50		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">0.50		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">120.00		</div></td>
+		<td align="right">
+          <div align="center">60.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">60.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               COSTALES CHICOS       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">PIEZA		
+             </div></td>
+       <td align="right">
+         <div align="center">8.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">8.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">10.00		</div></td>
+		<td align="right">
+          <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">80.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="#CCCCCC">
+          
+          <strong>
+          <div align="center">
+            6 . SERVICIOS   	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               FLETE DE PRODUCCION       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">TONELADA		
+             </div></td>
+       <td align="right">
+         <div align="center">2,500.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">2,500.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">280.00		</div></td>
+		<td align="right">
+          <div align="center">700,000.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">700,000.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               SERVICIOS DE BENEFICIADO SECO Y CONSECUSIÓN DE MERCADOS       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">QUINTAL		
+             </div></td>
+       <td align="right">
+         <div align="center">22.50		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">22.50		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">69.00		</div></td>
+		<td align="right">
+          <div align="center">1,552.50		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">1,552.50		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               ASISTENCIA TÉCNICA INTEGRAL ($ 10,000.00/ MES PARA 150 HA) 9 MESES       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">MES		
+             </div></td>
+       <td align="right">
+         <div align="center">9.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">9.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">66.67		</div></td>
+		<td align="right">
+          <div align="center">600.03		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">600.03		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="#CCCCCC">
+          
+          <strong>
+          <div align="center">
+            7 . DIVERSOS   	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               IMPUESTO PREDIAL       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">SERVICIO		
+             </div></td>
+       <td align="right">
+         <div align="center">1.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">1.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">100.00		</div></td>
+		<td align="right">
+          <div align="center">100.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">100.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+          
+	  
+	  
+	  <tr>
+       
+	    <td align="center" bgcolor="fff">
+          
+          <strong>
+          <div align="center">
+               	    
+          </div>
+		  
+		  </strong>
+		  </td>
+		  
+		  <td colspan="10"></td>
+		  </tr>
+		 
+		  <tr>
+		  <td></td>
+		   <td align="left">
+          
+          
+             <div align="center">
+               GASTOS DE ADMINISTRACIÓN       	  
+          </div></td>
+           <td align="center" >
+             <div align="center">SERVICIO		
+             </div></td>
+       <td align="right">
+         <div align="center">1.00		</div></td>
+						       
+		<td align="right">
+          <div align="center">1.00		</div></td>
+						       
+	
+	<td align="right">
+        <div align="center">1.00		</div></td>
+		
+						       
+	<td align="right">
+        <div align="center">900.00		</div></td>
+		<td align="right">
+          <div align="center">900.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+		
+		<td align="right">
+          <div align="center">900.00		</div></td>
+		<td align="right">
+          <div align="center">0.00		</div></td>
+	  </tr>
+    	
+   
+       						
+</table>
+
